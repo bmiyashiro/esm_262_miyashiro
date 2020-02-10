@@ -1,0 +1,16 @@
+---
+title: "Assignment 1"
+author: "Bobby Miyashiro"
+date: "2/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Why am I taking this course?
+I am taking this course because I am interested in furthering my computing knowledge. Having worked a little bit with R, SQL, and Stata I see the power that the computer programs such as these have. In the future, I believe everybody will know some type of computing programs just like we all know how to use word, thus I want to be able to know and understand this. I hope this course will help me develop those skills.
+
+## My data science background
+My data science background is very limited. I have used Stata and SQL in working capacities at a very limited level and learned R through ESM 206. I am fairly comfortable with excel too. Besides that, I do not have much data science background and am not very confident in what I currently know.
